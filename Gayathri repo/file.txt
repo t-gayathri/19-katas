@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 3 hello hi
-how are you
+how are you 
+enjoy
 =======
 3 hello hi yyyy
 >>>>>>> merge-conflict-branch1
