@@ -1,1 +1,28 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 15f5003045842c793f4d6f99ba477a98bbf2f671
+tttt
+=======
+HI
+>>>>>>> 70182c0... changed greeting.txt
+=======
 HELLO
+>>>>>>> 0374661... Revert "changed greeting.txt"
+=======
+tttt
+<<<<<<< HEAD
+>>>>>>> 84f963f... using amend and changing the commit message
+=======
+HI
+>>>>>>> 70182c0... changed greeting.txt
+=======
+HELLO
+>>>>>>> 0374661... Revert "changed greeting.txt"
+=======
+>>>>>>> 96594769818f842018f40e82ebd76a83bbf8c6c8
+>>>>>>> 15f5003045842c793f4d6f99ba477a98bbf2f671
