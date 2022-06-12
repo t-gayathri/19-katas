@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 3 hello hi uuu
 how are you
+=======
+3 hello hi
+how are you 
+enjoy
+>>>>>>> Mergesort-Impl
 =======
 3 hello hi yyyy
 >>>>>>> merge-conflict-branch1
