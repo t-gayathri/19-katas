@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 tttt
 =======
 HI
@@ -7,3 +8,6 @@ HI
 =======
 HELLO
 >>>>>>> 0374661... Revert "changed greeting.txt"
+=======
+tttt
+>>>>>>> 96594769818f842018f40e82ebd76a83bbf8c6c8
