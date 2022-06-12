@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 3 hello hi uuu
 how are you
+rebase
 =======
 3 hello hi
 how are you 
