@@ -1,1 +1,9 @@
-hello
+<<<<<<< HEAD
+<<<<<<< HEAD
+tttt
+=======
+HI
+>>>>>>> 70182c0... changed greeting.txt
+=======
+HELLO
+>>>>>>> 0374661... Revert "changed greeting.txt"
